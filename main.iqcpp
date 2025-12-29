@@ -57,8 +57,7 @@ void vexcodeInit() {
 //----------------------------------------------------------------------------
 //                                                                            
 //    Module:       main.cpp                                                                                                   
-//    Description:  IQ project 
-//    Note: To test, convert file to .iqcpp                                               
+//    Description:  IQ project                                               
 //                                                                            
 //----------------------------------------------------------------------------
 
